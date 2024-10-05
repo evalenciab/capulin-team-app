@@ -1,4 +1,3 @@
-import React from 'react'
 import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList } from '@/components/ui/navigation-menu'
 import { NavLink } from 'react-router-dom'
 export const Navigation = () => {

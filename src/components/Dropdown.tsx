@@ -1,4 +1,3 @@
-import React from 'react'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuLabel, DropdownMenuTrigger } from './ui/dropdown-menu'
 import { NavLink } from 'react-router-dom'
 
